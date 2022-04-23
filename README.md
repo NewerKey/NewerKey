@@ -28,6 +28,7 @@ I am a Software Engineering Student <img src="https://media.giphy.com/media/WUlp
 
 - 🔭 I’m currently working on a REST API for Inventory app using Flask Framework.
 - 🌱 I’m currently learning Databases, Cybersecurity, Automated Testing
+- 🌱 Exploring Technical Content Writing.
 - 👯 I’m collaborating on the project <a href= "https://www.formly.ai/"> Formly AI </a> working on the backend.
 - 🤔 I’m looking for help with Career guidance
 
