@@ -26,7 +26,7 @@
 I am a Software Engineering Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> in Berlin.
 
 
-- 🔭 I’m currently working on an Inventory Management using API.
+- 🔭 I’m currently working on an Asset Management System.
 - 🌱 I’m currently learning Databases, Cybersecurity, Automated Testing
 - 🌱 Exploring Technical Content Writing.
 - 👯 I’m collaborating on the project <a href= "https://www.formly.ai/"> Formly AI </a> working on the backend.
