@@ -34,8 +34,6 @@ I am a Software Engineering Student <img src="https://media.giphy.com/media/WUlp
 
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Yvette-blue?style=round&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yvettenartey/)
 
-- ⚡ Fun fact: Wanna go dancing, count me in 💃
-
 
 ---
 
