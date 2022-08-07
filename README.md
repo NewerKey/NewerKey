@@ -25,11 +25,7 @@
 
 I am a Software Engineering Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> in Berlin.
 
-
-- 🔭 I’m currently working on an Asset Management System.
-- 🌱 I’m currently learning Databases, Cybersecurity, Automated Testing
 - 🌱 Exploring Technical Content Writing.
-- 👯 I’m collaborating on the project <a href= "https://www.formly.ai/"> Formly AI </a> working on the backend.
 - 🤔 I’m looking for help with Career guidance
 
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Yvette-blue?style=round&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yvettenartey/)
