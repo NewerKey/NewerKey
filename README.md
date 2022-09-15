@@ -24,8 +24,9 @@
 ### 👩‍💻 About Me :
 
 I am a Software Engineering Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> in Berlin.
+- 🌱 Actively learning about Databases, API, design patterns in python. 
 
-- 🌱 Exploring Technical Content Writing.
+- 🌱 Exploring Technical Content Writing
 - 🤔 I’m looking for help with Career guidance
 
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Yvette-blue?style=round&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yvettenartey/)
