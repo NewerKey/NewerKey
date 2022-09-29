@@ -24,7 +24,7 @@
 ### 👩‍💻 About Me :
 
 I am a Software Engineering Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> in Berlin.
-- 🌱 Actively learning about Databases, API, design patterns in python. 
+- 🌱 Actively learning about Database using Postgresql, Cloud Computing, API, Software Design and Architecture using Python. 
 
 - 🌱 Exploring Technical Content Writing
 - 🤔 I’m looking for help with Career guidance
