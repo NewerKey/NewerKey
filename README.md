@@ -15,10 +15,6 @@
   </div>
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/5ByDpcirAHz8RQaumf/giphy-downsized-large.gif" width="600" height="300"/>
-</div>
-
 ---
 
 ### 👩‍💻 About Me :
