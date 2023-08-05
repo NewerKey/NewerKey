@@ -20,7 +20,7 @@
 ### 👩‍💻 About Me :
 
 I am a Software Engineering Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> in Berlin.
-- 🌱 Actively learning about API Design and Backend Development. 
+- 🌱 Actively learning about Backend Development, Hardware and Operating Systems, and Network Programming. 
 - 🌱 Exploring Technical Content Writing
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Yvette-blue?style=round&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yvettenartey/)
 
