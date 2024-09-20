@@ -20,7 +20,7 @@
 ### 👩‍💻 About Me :
 
 I am a Software Engineering Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> in Berlin.
-- 🌱 Actively learning about Backend Development and Software Design
+- 🌱 Actively learning about Backend Development and Software Design.
 - 🌱 Exploring Technical Content Writing
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Yvette-blue?style=round&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yvettenartey/)
 
@@ -32,6 +32,7 @@ I am a Software Engineering Student <img src="https://media.giphy.com/media/WUlp
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VScode" alt="vscode" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="40", height="40"/>&nbsp;
